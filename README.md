@@ -1,1 +1,1 @@
-# js-slider
+# webpackProject
